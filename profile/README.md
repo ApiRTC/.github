@@ -1,5 +1,5 @@
 # :wave: Hey! Welcome on the ApiRTC Community github 
-![logo ApiRTC](./img/ezgif-2-e711509fee.png)
+![logo ApiRTC](https://github.com/ApiRTC/.github/blob/main/profile/img/ezgif-2-e711509fee.png?raw=true)
 This space is dedicated to foster the video API community around ApiRTC resources.
 
 It gathers all resources to help developers to play with ApiRTC video APIs.

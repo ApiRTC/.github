@@ -22,7 +22,7 @@ Help ApiRTC community to collaborate, build things and show their work to the wo
 
 
 ## Contribute to this space
-+ Add a repo to this space - submit your project by pull request this file.
++ Add a resource to this space - submit your project by pull requesting this file.
 + Read the contribution.md file of a repo to understand how you can lean in and propose improvements
 
 

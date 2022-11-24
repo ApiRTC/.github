@@ -34,9 +34,9 @@ Help ApiRTC community to collaborate, build things and show their work to the wo
     - [Material UI Library on React components](https://github.com/ApiRTC/mui-react-lib) and a [demo](https://github.com/ApiRTC/react-ui-library-demo)
 - Combined use with Frameworks
     - [ApiRTC + Angular](https://github.com/ApiRTC/ApiRTC-angular)
-    - [ApiRTC + React](https://github.com/ApiRTC/ApiRTC-react-demo)
-    - [ApiRTC + VuJS](https://github.com/ApiRTC/apirtc-vuejs)  
-    - [ApiRTC + ionic](https://github.com/ApiRTC/ApiRTC-angular-ionic-tutorial)
+    - [ApiRTC + React](https://github.com/ApiRTC/apirtc-react)
+    - [ApiRTC + VueJS](https://github.com/ApiRTC/apirtc-vuejs)  
+    - [ApiRTC + Angular + ionic](https://github.com/ApiRTC/ApiRTC-angular-ionic-tutorial)
 - WebRTC Trainings
     - [Training exercises](https://github.com/ApiRTC/trainings) to level up on developing with WebRTC APIs
 - Documentation sites source code

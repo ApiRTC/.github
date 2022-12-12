@@ -19,6 +19,7 @@ Help ApiRTC community to collaborate, build things and show their work to the wo
 + ☝️ [ApiRTC JS Reference](https://apirtc.github.io/references/apirtc-js/)
 + 🤓 [Tutorials](https://dev.apirtc.com/examples)
 + ☁️ [ApiRTC Cloud Reference](https://cloud.apirtc.com/sdk/api/)
++ 📜 [Changelog](https://github.com/ApiRTC/references/blob/master/apirtc-js/CHANGELOG.md)
 
 
 ## Contribute to this space

@@ -12,13 +12,13 @@ Help ApiRTC community to collaborate, build things and show their work to the wo
 + 📘 [Developer portal](https://dev.apirtc.com)
 + 🖊️ [Our technical blog](https://apirtc.com/blog/)
 + 🐦 [Our twitter account](https://twitter.com/apirtc)
-+ 🧱 [Post](https://stackoverflow.com/search?q=apirtc) on Stack Overflow including 'apirtc' in your message to gethelp from the community
++ 🧱 [Post](https://stackoverflow.com/search?q=apirtc) on Stack Overflow including 'apirtc' in your message to get help from the community
 
 ## Our documentation pages
 + 🗺️ [ApiRTC developer website](https://apirtc.com)
 + ☝️ [ApiRTC JS Reference](https://apirtc.github.io/references/apirtc-js/)
-+ 🤓 [Tutorials](https://dev.apirtc.com/examples)
-+ ☁️ [ApiRTC Cloud Reference](https://cloud.apirtc.com/sdk/api/)
++ 🤓 [Tutorials](https://dev.apirtc.com/apirtc-developer-portal/apirtc-js-library/demo-app-and-resources)
++ ☁️ [ApiRTC REST API Reference](https://cloud.apirtc.com/sdk/api/)
 + 📜 [Changelog](https://github.com/ApiRTC/references/blob/master/apirtc-js/CHANGELOG.md)
 
 
@@ -41,7 +41,7 @@ Help ApiRTC community to collaborate, build things and show their work to the wo
 - WebRTC Trainings
     - [Training exercises](https://github.com/ApiRTC/trainings) to level up on developing with WebRTC APIs
 - Documentation sites source code
-    - [dev.apirtc.com developer portal](https://github.com/ApiRTC/apirtccom)
+    - [dev.apirtc.com developer portal](https://github.com/ApiRTC/apirtc-docs)
     - [reference website (https://apirtc.github.io/references/apirtc-js/)](https://github.com/ApiRTC/references)
 
 # Contact the maintainer team

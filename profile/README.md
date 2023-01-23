@@ -15,12 +15,12 @@ Help ApiRTC community to collaborate, build things and show their work to the wo
 + 🧱 [Post](https://stackoverflow.com/search?q=apirtc) on Stack Overflow including 'apirtc' in your message to get help from the community
 
 ## Our documentation pages
-+ 🗺️ [ApiRTC developer website](https://apirtc.com)
 + ☝️ [ApiRTC JS Reference](https://apirtc.github.io/references/apirtc-js/)
 + 🤓 [Tutorials](https://dev.apirtc.com/apirtc-developer-portal/apirtc-js-library/demo-app-and-resources)
++ 🧿 [ReactJS Hooks on NPM](https://www.npmjs.com/package/@apirtc/react-lib)
 + ☁️ [ApiRTC REST API Reference](https://cloud.apirtc.com/sdk/api/)
 + 📜 [Changelog](https://github.com/ApiRTC/references/blob/master/apirtc-js/CHANGELOG.md)
-
++ 🗺️ [ApiRTC pricing](https://apirtc.com/pricing)
 
 ## Contribute to this space
 + Add a resource to this space - submit your project by pull requesting this file.
